@@ -2,5 +2,13 @@
 ## Reflection and Threads in various languages
 
 ### Languages:
-1. java
-2. python
+* Ruby 
+* Python 
+* Java
+
+### Run using:
+
+* Ruby Version: `ruby <filename>.rb`
+* Python Version: `python <filename>.py`
+* Java Version: `javac <filename>.java && java filename`
+ 
