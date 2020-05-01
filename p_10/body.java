@@ -1,4 +1,5 @@
-import java.util.*;
+//This file is obselete, please refer to python code
+//import java.util.*;
 import java.io.*;
 
 public class body {
