@@ -1,3 +1,10 @@
+# P-10
+
+## CSCI - P436 | _Brandon Young_
+
+### Source Code
+
+```python
 import sys
 import os
 
@@ -30,3 +37,16 @@ def checkArg(inputPath):
 
 pathSearch = sys.argv
 checkArg(pathSearch)
+```
+
+### Running the code
+
+`python <filename>.py pwsh.exe`
+
+### Program Output
+
+
+>Currently Looknig for: pwsh.exe  
+ C:\Program Files\PowerShell\7  
+ C:\Program Files\PowerShell\7\
+
