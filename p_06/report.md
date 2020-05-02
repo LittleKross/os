@@ -62,7 +62,8 @@ class Reflections extends Thread {
 * Python Version: `python <filename>.py`
 * Java Version: `javac <filename>.java && java filename`
 
-### Ruby Output  
+### Ruby Output
+
 pending_interrupt?  
 raise  
 join  
@@ -215,4 +216,4 @@ getAllStackTraces
 getId  
 getState  
 getDefaultUncaughtExceptionHandler  
-setUncaughtExceptionHandler
+setUncaughtExceptionHandle
